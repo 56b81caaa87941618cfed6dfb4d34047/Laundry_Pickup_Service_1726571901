@@ -5,7 +5,7 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
 -->
 
 <template>
-    <section id="hero-section" class="bg-white dark:bg-gray-900 flex-1">
+    <section id="hero-section" style="min-height: 190px" class="bg-white dark:bg-gray-900 flex-1">
         <div id="hero-container" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
             <!-- Left section containing title and buttons -->
             <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
